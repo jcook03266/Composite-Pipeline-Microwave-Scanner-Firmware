@@ -1,6 +1,5 @@
 # Composite-Pipeline-Microwave-Scanner-Firmware
 
-## Project Photos
 <div align="left">
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/cluster-shot.png" width="500">
 </div>
