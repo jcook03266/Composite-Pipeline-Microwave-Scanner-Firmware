@@ -3,10 +3,10 @@
 This robot uses microwave reflectometry to scan non-composite pipelines (plastic or any material in that catergory) for defects. The system works on the basis of a data aggregation algorithm used to cluster up reference scans into a referential data frame that will be used to classify future scans as skewed, normal, or defective. 
 
 <div>
-<div align="left">
+<div>
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/cluster-shot.png" width="400">
 </div>
-<div align="right">
+<div>
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/frontal-shot.png" width="400">
 </div>
 </div>
