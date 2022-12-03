@@ -17,7 +17,7 @@ The reason for the three categories of classification is because of the feedback
 ## Flow Chart
   
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/flowchart.png" width="800">
-
+<br>
  
 By having a dynamic reactionary movement protocol the robot can control the quality of its data ingestion, and as result improve the system's response to future input. Given the feedback loop it would be pretty evident what kind of control system controller this firmware implements, and that is a PID controller. A PID, or proportional integral derivative controller, relies on multiple components to accomplish its primary goal which is to induce a steady-state by adding a control effect based on the accumulated historical error present in the input data stream, and by adding an anticipatory control effect by predicting the input's next trend based on the rate of change exhibited by the cumulative value of the error. The controller integrates the difference between a desired reference point, so the average of a couple scans on a clean pipe with no defects, and a measured process variable, the error-corrected input going into the system. And, the controller derives the next input value by looking at the error's rate of change; making the system respond ahead of time to limit residual error e(t) of the proportional component of the system whihc is SP-PV, setpoint - processs variable.
   
