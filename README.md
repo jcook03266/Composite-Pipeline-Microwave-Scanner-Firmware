@@ -5,10 +5,10 @@ This robot uses microwave reflectometry to scan non-composite pipelines (plastic
 
 ## Overiview Photos
 <div style="display:flex; flex-wrap:nowrap;">
-<div style="width:100; height:100; margin:10px;">
+<div style="width:100px; height:100px; margin:10px;">
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/cluster-shot.png" width="200">
 </div>
-<div style="width:100; height:100; margin:10px;">
+<div style="width:100px; height:100px; margin:10px;">
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/frontal-shot.png" width="200">
 </div>
 </div>
