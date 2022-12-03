@@ -20,8 +20,8 @@ By having a dynamic reactionary movement protocol the robot can control the qual
 4.) Possible defect detected ? -> Movement speed decreases by -∆Z <br>
 
 ## Classification Branching:
-5. Defect | Scan fidelity increases, Defect found -> Movement Stops -> Alert broadcasted -> Back to step 1.) <br>
-5. No-defect | Scan fidelity increases, Defect not found -> Movement speed increases by +∆Z, to return back to the base ∆Z -> Back to step 3.) <br>
+5. Defect | Scan fidelity increases, Defect found -> Movement Stops -> Alert broadcasted -> Back to step 1.)
+5. No-defect | Scan fidelity increases, Defect not found -> Movement speed increases by +∆Z, to return back to the base ∆Z -> Back to step 3.)
 
 ## How is the data interpretted? 
 
