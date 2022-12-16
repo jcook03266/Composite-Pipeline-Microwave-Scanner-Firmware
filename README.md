@@ -14,25 +14,19 @@ The reason for the three categories of classification is because of the feedback
 
 <div align="center">
 
-# Data Visualization
+## Data Visualization
  
-## Heat Map Graph
+### Heat Map Graph
 
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/heatmap.png" width="800">
-</div>
-
-<div align="center">
  
-## Scatter Plot Graph
+### Scatter Plot Graph
 
-<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/flowchart.png" width="800">
-</div>
-
-<div align="center">
+<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/scatterplot.png" width="800">
   
 ## Flow Chart
   
-<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/scatterplot.png" width="800">
+<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/flowchart.png" width="800">
 </div>
  
 <div align="center">
