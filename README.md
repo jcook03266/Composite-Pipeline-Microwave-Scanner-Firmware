@@ -13,6 +13,22 @@ This robot uses microwave reflectometry to scan non-composite pipelines (plastic
 The reason for the three categories of classification is because of the feedback loop this system is inherently built upon. The scanner moves along a pipeline in a +/- Z direction at a variable speed controlled by a detection manager that adjusts the speed to get a higher fidelity image of the current section of the pipe. This behavior can be best explained through the following flow chart diagram:
 
 <div align="center">
+
+# Data Visualization
+ 
+## Heat Map Graph
+
+<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/flowchart.png" width="800">
+</div>
+
+## Heat Map Graph
+
+<img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/flowchart.png" width="800">
+</div>
+
+</div>
+
+<div align="center">
   
 ## Flow Chart
   
