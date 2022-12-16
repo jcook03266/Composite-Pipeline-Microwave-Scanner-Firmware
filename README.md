@@ -19,10 +19,18 @@ The reason for the three categories of classification is because of the feedback
 ### Heat Map Graph
 
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/heatmap.png" width="800">
+
+<div align="left">
+
+</div>
  
 ### Scatter Plot Graph
 
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/scatterplot.png" width="800">
+
+<div align="left">
+This scatter plot is a visual representation of the classification algorithm used to detect defects in the scanning pipeline. Each data point plotted adheres to a select set of reference points with those reference points having an error margin ~ +- 1% as represented by the error bars. Thus, the farther these data points stray from the trend line that hovers in the center of the scatter plot, the larger the detection signature. If a point is within the error bars of a reference point then it is classified as a normal scan, if it lies outside of this error margin then it is classified as a defect. This boolean approach tied in with a very sensitive is used due to the inaccuracies posed by the antennas chosen for this project which are 2dBi cellular antennas. 
+</div>
   
 ## Flow Chart
   
