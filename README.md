@@ -7,6 +7,19 @@
 <img src="https://github.com/jcook03266/Composite-Pipeline-Microwave-Scanner-Firmware/blob/main/Resources/frontal-shot.png" width="500">
 </div>
 
+## Check out the project's Google Site:
+https://sites.google.com/nyit.edu/seniordesign-fall2021-spring20/
+- Here you can find the parts used to build this robot, our methodology, as well as starting goals and end goals.
+
+## Demos:
+
+### Diagnostics Readout:
+https://user-images.githubusercontent.com/63657230/226676670-ac519d6f-53b8-4604-bb58-fcbb7ef1651e.MP4
+
+### Trial Run:
+https://user-images.githubusercontent.com/63657230/226682109-59bb37b2-e873-4bbd-8d01-f0edf069b30d.mp4
+
+
 ## Overview
 This robot uses microwave reflectometry to scan non-composite pipelines (plastic or any material in that catergory) for defects. The system works on the basis of a data aggregation algorithm used to cluster up reference scans into a referential data frame that will be used to classify future scans as skewed, normal, or defective. 
 
